@@ -1,0 +1,65 @@
+﻿  FileName.cpp
+C:\Users\rehan\Desktop\finalproject 23L-0642\Project1\Project1\FileName.cpp(192,57): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rehan\Desktop\finalproject 23L-0642\Project1\Project1\FileName.cpp(192,43): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rehan\Desktop\finalproject 23L-0642\Project1\Project1\FileName.cpp(213,83): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\rehan\Desktop\finalproject 23L-0642\Project1\Project1\FileName.cpp(213,51): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\rehan\Desktop\finalproject 23L-0642\Project1\Project1\FileName.cpp(215,88): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\rehan\Desktop\finalproject 23L-0642\Project1\Project1\FileName.cpp(215,56): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\rehan\Desktop\finalproject 23L-0642\Project1\Project1\FileName.cpp(335,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rehan\Desktop\finalproject 23L-0642\Project1\Project1\FileName.cpp(336,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rehan\Desktop\finalproject 23L-0642\Project1\Project1\FileName.cpp(485,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\rehan\Desktop\finalproject 23L-0642\Project1\Project1\FileName.cpp(485,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\rehan\Desktop\finalproject 23L-0642\Project1\Project1\FileName.cpp(491,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\rehan\Desktop\finalproject 23L-0642\Project1\Project1\FileName.cpp(491,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\rehan\Desktop\finalproject 23L-0642\Project1\Project1\FileName.cpp(499,57): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rehan\Desktop\finalproject 23L-0642\Project1\Project1\FileName.cpp(499,43): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rehan\Desktop\finalproject 23L-0642\Project1\Project1\FileName.cpp(680): warning C4715: 'canMoveTheBead': not all control paths return a value
+  Project1.vcxproj -> C:\Users\rehan\Desktop\finalproject 23L-0642\Project1\x64\Debug\Project1.exe
